@@ -92,3 +92,24 @@ h1, h2 {
 .btn:active {
     transform: scale(1);
 }
+
+#about {
+    padding: 40px;
+    text-align: center;
+}
+
+#about p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: auto;
+}
+
+#about h2, #about h3 {
+    margin: 30px 0;
+    color: var(--primary-color);
+}
+
+.social a {
+    margin: 0 5px;
+}
+
